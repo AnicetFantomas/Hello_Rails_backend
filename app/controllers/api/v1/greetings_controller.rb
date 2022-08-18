@@ -1,4 +1,4 @@
-class MessagesController < ApplicationController
+class GreetingsController < ApplicationController
   def index
     @greetings = Greeting.all
     if @greetings.empty?
