@@ -21,15 +21,15 @@ To get a local copy up and running follow these simple example steps.
 ## Setup and Usage
 **Start Back-end Rails server**
 - *Note -> You need to start the Rails server first at port 3000 then start the React server at a different port*
-- Clone the back-end rails API from `git@github.com:sainingo/hello-rails-back-end.git`
-- navigate to the folder `cd hello-rails-back-end`
+- Clone the back-end rails API from `https://github.com/AnicetFantomas/Hello_Rails_backend.git`
+- navigate to the folder `cd hello_rails_backend`
 - Install required gems `bundle install`
 - Load the database `rails db:reset`
 - Start server `rails s`
 
 **Start Front-end React server**
-- Clone the project `git@github.com:sainingo/hello-react-front-end.git`
-- navigate to the folder `cd hello-react-front-end`
+- Clone the project `https://github.com/AnicetFantomas/hello_react_frontend.git`
+- navigate to the folder `cd hello_react_frontend`
 - run `npm i `to install all dependencies
 - Start server `npm start` and choose the yes option to start server in different port (not 3000)
 - Enjoy interacting with the app.
