@@ -47,11 +47,6 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@FantomasAnicet](https://twitter.com/FantomasAnicet)
 - LinkedIn: [Anicet Murhula](https://www.linkedin.com/in/anicet-murhula/)
 
-👤 **IFZA Rasool**
-- GitHub: [@ifzarasool](https://github.com/IfzaRasool
-- Twitter: [@ifzaarain](https://twitter.com/ifzaarain)
-- LinkedIn: [@ifza-arain]https://www.linkedin.com/in/ifza-arain/
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
