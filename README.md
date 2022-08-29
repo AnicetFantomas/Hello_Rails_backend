@@ -2,7 +2,7 @@
 # Hello Rails Back-end App
 
 > A Rails Back-end application that interacts with a React front-end API to display greetings from around the world
-> You can find the React Front-end application at [This Repo](https://github.com/sainingo/hello-react-front-end)
+> You can find the React Front-end application at [This Repo](https://github.com/AnicetFantomas/hello_react_frontend.git)
 
 
 ## Built With
