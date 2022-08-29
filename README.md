@@ -1,24 +1,62 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello Rails Back-end App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> A Rails Back-end application that interacts with a React front-end API to display greetings from around the world
+> You can find the React Front-end application at [This Repo](https://github.com/AnicetFantomas/hello_react_frontend.git)
 
-Things you may want to cover:
 
-* Ruby version
+## Built With
 
-* System dependencies
+- **Ruby**
+- **Ruby on Rails**
+- **Postgresql**
+  
+## Getting Started
+To get a local copy up and running follow these simple example steps.
 
-* Configuration
+## Prerequisites
 
-* Database creation
+- You need Ruby v3+, Rails v7+ and Postgresql installed on your machine.
 
-* Database initialization
+## Setup and Usage
+**Start Back-end Rails server**
+- *Note -> You need to start the Rails server first at port 3000 then start the React server at a different port*
+- Clone the back-end rails API from `https://github.com/AnicetFantomas/Hello_Rails_backend.git`
+- navigate to the folder `cd hello_rails_backend`
+- Install required gems `bundle install`
+- Load the database `rails db:reset`
+- Start server `rails s`
 
-* How to run the test suite
+**Start Front-end React server**
+- Clone the project `https://github.com/AnicetFantomas/hello_react_frontend.git`
+- navigate to the folder `cd hello_react_frontend`
+- run `npm i `to install all dependencies
+- Start server `npm start` and choose the yes option to start server in different port (not 3000)
+- Enjoy interacting with the app.
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Author
 
-* ...
+👤 **Anicet Murhula**
+
+<a href="https://github.com/AnicetFantomas" target="blank"><img align="center"
+      src="https://avatars.githubusercontent.com/u/94958024?s=400&u=d381903f2405198e53ab824f3b5f35f30158a1ac&v=4"
+      alt="adampithewan" height="50" width="50"/></a> **@AnicetFantomas**
+
+- GitHub: [@AnicetFantomas](https://github.com/AnicetFantomas)
+- Twitter: [@FantomasAnicet](https://twitter.com/FantomasAnicet)
+- LinkedIn: [Anicet Murhula](https://www.linkedin.com/in/anicet-murhula/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/sainingo/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+Hat tip to anyone whose code inspired our project
+  
